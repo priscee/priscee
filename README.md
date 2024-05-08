@@ -34,6 +34,7 @@
 </p>
 
 <!--skill icons-->
+<h1></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=language+%26+tools" alt="Typing SVG" /></a>
 
 <p align="center">
@@ -43,6 +44,7 @@
 </p>
 
 <!--codèdex pet-->
+<h1></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=cod%C3%A8dex+pet" alt="Typing SVG" /></a>
 
 <p align="center">
@@ -50,6 +52,7 @@
 </p>
 
 <!--vibing-->
+<h1></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=vibing" alt="Typing SVG" /></a>
 
 <div align="center">
