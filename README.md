@@ -1,7 +1,15 @@
+<!--
 <p align="center">
    <img src="https://github.com/priscee/priscee/assets/85870933/5fcdc597-8b99-4032-b310-376aa8efd490">
-  <!--x @wanella-->
+  <!--x @wanella--
 </p>
+-->
+
+<p align="center">
+   <img src="https://github.com/priscee/priscee/assets/85870933/3a309a45-a57f-4187-b1c2-a17e190de40c">
+  <!--artstation @uptwo-->
+</p>
+
 
 ![rainbow_divider](https://github.com/priscee/priscee/assets/85870933/66ce3aeb-6251-488d-9616-26c4bd8eacb6)
 
