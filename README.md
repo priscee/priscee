@@ -17,33 +17,43 @@
 
 ![rainbow_divider](https://github.com/priscee/priscee/assets/85870933/66ce3aeb-6251-488d-9616-26c4bd8eacb6)
 
-<h1>
-  about me
-</h1>
+<!--about me-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&height=40&lines=about+me" alt="Typing SVG" /></a>
 <p>
   Hey there! Welcome to my github ✨ 
   I'm currently learning coding and am on a journey with Python right now.<br>
-  <img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" alt="codedex" width="30px" height="30px"> Codèdex and <img src="https://github.com/priscee/priscee/assets/85870933/01ca6e02-9e70-4d70-b129-e1c0af6ed5a5" alt="codecademy" width="30px" height="30px"> Codecademy are my main source of knowledge learning. Follow me on my coding journey and I hope you find it beneficial as well! 🦄
+  <img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" alt="codedex" width="30px" height="30px"> Codèdex and <img src="https://github.com/priscee/priscee/assets/85870933/01ca6e02-9e70-4d70-b129-e1c0af6ed5a5" alt="codecademy" width="30px" height="30px"> Codecademy are my main source of knowledge learning. Follow me on my coding journey and I hope you find it beneficial as well! 🦄 <br>
 </p>
 
+<!--skill icons-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=language+%26+tools" alt="Typing SVG" /></a>
 
-<h1>
-  language & tools
-</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,bash,vim,vscode,github,notion,discord" />
-  </a>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,html,bash,vim,vscode,github,notion,discord" />
+   </a>
 </p>
+
+<!--codèdex pet-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=cod%C3%A8dex+pet" alt="Typing SVG" /></a>
+
+<p align="center">
+   <a href="https://www.codedex.io/@genemod/30-nites-of-code/"><img src="https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" alt="Codedex Pet GIF"></a>
+</p>
+
+<!--vibing-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=vibing" alt="Typing SVG" /></a>
+
+<div align="center">
+<p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=domodumdum&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=c18acc&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=domodumdum&redirect=true)
+
+</p>
+</div>
 
 <!--
 <h1>
   reach me @
 </h1>
 -->
-
-<h1>  
-   codèdex
-</h1>
-
-![@genemod #30NitesOfCode](https://www.codedex.io/api/petStatus?user=genemod)
