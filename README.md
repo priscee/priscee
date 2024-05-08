@@ -22,7 +22,7 @@
 </h1>
 <p>
   Hey there! Welcome to my github ✨ 
-  I'm currently learning coding and am on a journey with Python right now.
+  I'm currently learning coding and am on a journey with Python right now.<br>
   <img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" alt="codedex" width="30px" height="30px"> Codèdex and <img src="https://github.com/priscee/priscee/assets/85870933/01ca6e02-9e70-4d70-b129-e1c0af6ed5a5" alt="codecademy" width="30px" height="30px"> Codecademy are my main source of knowledge learning. Follow me on my coding journey and I hope you find it beneficial as well! 🦄
 </p>
 
