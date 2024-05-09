@@ -26,7 +26,7 @@
 ![rainbow_divider](https://github.com/priscee/priscee/assets/85870933/66ce3aeb-6251-488d-9616-26c4bd8eacb6)
 
 <!--about me-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&height=40&lines=about+me" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=04D9FF&random=false&width=435&height=40&lines=about+me" alt="Typing SVG" /></a>
 <p>
   Hey there! Welcome to my github ✨ 
   I'm currently learning coding and am on a journey with Python right now.<br>
@@ -35,7 +35,7 @@
 
 <!--skill icons-->
 <h1></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=language+%26+tools" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=04D9FF&random=false&width=435&lines=language+%26+tools" alt="Typing SVG" /></a>
 
 <p align="center">
    <a href="https://skillicons.dev">
@@ -45,7 +45,7 @@
 
 <!--codèdex pet-->
 <h1></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=cod%C3%A8dex+pet" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=04D9FF&random=false&width=435&lines=cod%C3%A8dex+pet" alt="Typing SVG" /></a>
 
 <p align="center">
    <a href="https://www.codedex.io/@genemod/30-nites-of-code/"><img src="https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" alt="Codedex Pet GIF"></a>
@@ -53,7 +53,7 @@
 
 <!--vibing-->
 <h1></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=FFFFFF&random=false&width=435&lines=vibing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=04D9FF&random=false&width=435&lines=vibing" alt="Typing SVG" /></a>
 
 <div align="center">
 <p>
