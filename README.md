@@ -30,7 +30,12 @@
 <p>
   Hey there! Welcome to my github ✨ 
   I'm currently learning coding and am on a journey with Python right now.<br>
-  <img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" alt="codedex" width="30px" height="30px"> Codèdex and <img src="https://github.com/priscee/priscee/assets/85870933/01ca6e02-9e70-4d70-b129-e1c0af6ed5a5" alt="codecademy" width="30px" height="30px"> Codecademy are my main source of knowledge learning. Follow me on my coding journey and I hope you find it beneficial as well! 🦄 <br>
+  <img src="https://www.codedex.io/images/codedex-bot-logo-compressed.gif" alt="codedex" width="30px" height="30px"> Codèdex and <img src="https://github.com/priscee/priscee/assets/85870933/01ca6e02-9e70-4d70-b129-e1c0af6ed5a5" alt="codecademy" width="30px" height="30px"> Codecademy are my main source of knowledge learning. Follow me on my coding journey and I hope you find it beneficial as well! 🦄 <br><br>
+
+🎮 casual gamer <br>
+📸 occasional photographer <br>
+🎙️ fav quote: laugh till you succeed <br>
+👩🏻‍💼 open for job opportunities <font size="2px"><i>/resume in progress/</i></font> check out my <a href="https://www.linkedin.com/in/priscillagenevieve"><img src="https://github.com/priscee/priscee/assets/85870933/82e46431-2a3b-4467-b1b6-4d3d3d868f22" alt="linkedinicon" width="15px" height="15px"></a> in the meantime <br>
 </p>
 
 <!--skill icons-->
