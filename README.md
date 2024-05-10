@@ -53,7 +53,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&duration=1&pause=99999&color=04D9FF&random=false&width=435&lines=cod%C3%A8dex+pet" alt="Typing SVG" /></a>
 
 <p align="center">
-   <a href="https://www.codedex.io/@genemod/30-nites-of-code/"><img src="https://www.codedex.io/images/code-nights/baby-happy-dragon.gif" alt="Codedex Pet GIF"></a>
+   <a href="https://www.codedex.io/@genemod/30-nites-of-code/"><img src="https://www.codedex.io/images/code-nights/evolved-eating-dragon.gif" alt="Codedex Pet GIF"></a>
 </p>
 
 <!--vibing-->
