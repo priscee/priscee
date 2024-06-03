@@ -1,4 +1,3 @@
-<!--
 <p align="center">
    <img src="https://github.com/priscee/priscee/assets/85870933/5fcdc597-8b99-4032-b310-376aa8efd490">
   <!--x @wanella-->
